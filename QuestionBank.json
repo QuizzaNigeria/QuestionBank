@@ -1,0 +1,39 @@
+ {
+      "id": 1,
+      "title": "Commercial activities received a great boost in West Africa due to contact with?",
+      "body": "A. Asians<br />B. Europeans<br />C. Americans<br />D. Africans",
+      "tags": ["WAEC", "2017", "COMMERCE"],
+      "subject": "Commerce",
+      "topic": "History of Commerce",
+      "exam": "Objective",
+      "type": "Multiple Choice",
+      "answer": "B. Europeans",
+      "explanation": "European colonization and trade networks greatly expanded commercial activities in West Africa.",
+      "class": "Senior Secondary"
+    },
+    {
+      "id": 2,
+      "title": "Which company introduced the assembly line in car production?",
+      "body": "A. Ford<br />B. Toyota<br />C. General Motors<br />D. Volkswagen",
+      "tags": ["WAEC", "2018", "COMMERCE"],
+      "subject": "Commerce",
+      "topic": "Business Models",
+      "exam": "Objective",
+      "type": "Multiple Choice",
+      "answer": "A. Ford",
+      "explanation": "Ford revolutionized production by introducing the assembly line, making cars more affordable.",
+      "class": "Senior Secondary"
+    },
+    {
+      "id": 3,
+      "title": "What is the capital of France?",
+      "body": "A. Berlin<br />B. Madrid<br />C. Paris<br />D. Rome",
+      "tags": ["WAEC", "2019", "GEOGRAPHY"],
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "exam": "Objective",
+      "type": "Multiple Choice",
+      "answer": "C. Paris",
+      "explanation": "Paris is the capital of France.",
+      "class": "Senior Secondary"
+    }
